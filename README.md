@@ -1,3 +1,3 @@
-# Computational Social Models
+# Computational Social Science (CSS) Models
 
-This is a repository for computational social models.
+This is a repository for Computational Social Science (CSS) models.
